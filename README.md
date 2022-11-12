@@ -8,7 +8,7 @@
 
 <hr>
 
-![denisvboas GitHub stats](https://github-readme-stats.vercel.app/api?username=denisvboas&show_icons=true&theme=dracula)
+![denis GitHub stats](https://github-readme-stats.vercel.app/api?username=denisvboas&show_icons=true&theme=dracula)
 
 <hr>
 
