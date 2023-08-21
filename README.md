@@ -1,4 +1,4 @@
-## Olá!!! Sou denisvboas👋
+## Olá 👋!!! Meu nome é Denis, sou estudante e estou me aprofundando nas seguintes tecnologias abaixo: 
 
 <div style="display: inline_block"><br/>
    <img align="center" alt="javascript" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
